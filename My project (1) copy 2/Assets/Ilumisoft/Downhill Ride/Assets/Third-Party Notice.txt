@@ -1,0 +1,5 @@
+Asset is governed by the Asset Store EULA; however, the following components are governed by the licenses indicated below:
+
+A. Comfortaa-Regular
+SIL OPEN FONT LICENSE 
+Version 1.1 - 26 February 2007
